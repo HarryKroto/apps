@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "Mr. Green Tic Tac",
+    "imagePath": "https://raw.githubusercontent.com/HarryKroto/apps/master/tic-tac-toe-male-vs-female.jpg",
+    "linkPath": "",
+    "linkAction": "#start",
+    "afid": "mQzgMNgVi97QYws33j7pMT"
+  }
+}
